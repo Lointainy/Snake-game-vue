@@ -1,0 +1,11 @@
+### Todo list
+- [] Clean-up the default elements/components from the project
+- [] Game
+  - [] Create a basic layout
+  - [] Create the game grid
+  - [] Create the Snake
+  - [] Create the movements on the grid
+  - [] Add game over mechanism
+  - [] Add teleport through walls mechanism
+  - [] Add food and snake expansion
+- [] Refactor and polish
